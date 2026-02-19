@@ -70,7 +70,7 @@ Cybersecurity College Program (In Progress)
 LinkedIn: https://www.linkedin.com/in/javier-cantillana-22a63a301  
 
 TryHackMe:
- src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6415318" 
+ "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6415318" 
 
 ---
 
